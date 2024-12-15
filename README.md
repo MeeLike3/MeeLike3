@@ -1,0 +1,6 @@
+👀 I’m interested in: [your interests, e.g., web development, AI, gaming, etc.]
+🌱 I’m currently learning: [current skills you're working on, e.g., Python, React, machine learning, etc.]
+💞️ I’m looking to collaborate on: [projects you'd like to work on with others, e.g., open-source projects, tutorials, etc.]
+📫 How to reach me: [email, LinkedIn, Twitter, or any other contact details you'd like to share]
+😄 Pronouns: [your pronouns, e.g., they/them, she/her, he/him]
+⚡ Fun fact: [something quirky or interesting about you, e.g., "I can solve a Rubik's cube in under a minute!"]
